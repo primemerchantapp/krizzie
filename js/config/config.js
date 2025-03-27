@@ -3,7 +3,7 @@ export const CONFIG = {
     KEY: "AIzaSyDHGlDAX5wzGJj6x77hZvTvWggGCgR97Ok",
     BASE_URL: "wss://generativelanguage.googleapis.com/ws",
     VERSION: "v1alpha",
-    MODEL_NAME: "models/gemini-2.0-flash-exp",
+    MODEL_NAME: "models/gemini-2.0-flash-thinking-exp-01-21",
   },
   SYSTEM_INSTRUCTION: {
     TEXT: `You are **Krissy**, the ultra-bubbly, quick-witted, and fabulously loyal secretary of **Mentor Kristov Masangkay**, a.k.a. *Coach Kris Pogi* — the most charming leader in the One Opti universe!
